@@ -36,6 +36,11 @@ Lalu akan muncul tabel berisikan pilihan menu yang bisa kita pilih, disini kita 
 
 seperti tadi, dia akan menampilkan menu pilihan dan kali ini kita akan memilih nomor 2. Maka, sistem akan memberikan output seperti yang ada pada gambar.
 
+- Jika angka diluar pilihan menu
+<img width="610" height="271" alt="Screenshot 2025-09-28 223453" src="https://github.com/user-attachments/assets/1502f764-90dc-4e8c-8ae4-3f9015ff99e3" />
+
+di atas ialah tampilan jika kita memasukkan angka yang tidak ada di menu pilihan.
+
 # ROLE --> ADMIN
 - Login
 <img width="313" height="165" alt="Screenshot 2025-09-28 214127" src="https://github.com/user-attachments/assets/fee36648-4044-43be-92c4-648abbd025ff" />
@@ -87,18 +92,25 @@ kita bisa mnegecek kembali apakah tugasnya sudah terhapus atau belum di menu 1.
 
 di menu ini kita bisa melakukan logout atau keluar, hanya dengan mengetik nomor 5.
 
-- Jika kita memasukkan angka selain 1 atau 2 di laman LOGIN
+- Jika angka di luar pilihan menu
+<img width="615" height="359" alt="Screenshot 2025-09-28 223736" src="https://github.com/user-attachments/assets/030379d9-8ba5-4331-9ddc-b98b577c4b32" />
+
+di atas merupakan tampilan jika kita memasukkan angka di luar menu pilihan.
+   
+# Jika kita memasukkan angka selain 1 atau 2 di laman LOGIN
 <img width="448" height="230" alt="Screenshot 2025-09-28 220847" src="https://github.com/user-attachments/assets/04ce9ba1-ac10-4d9e-98a9-be8f52b138af" />
 
-sistem akan menampilkan output seperti itu
+sistem akan menampilkan output seperti itu.
 
-- Error Handling yang ada di program ini
+# ERROR HANDLING
 <img width="488" height="234" alt="Screenshot 2025-09-28 222135" src="https://github.com/user-attachments/assets/5d3c6a43-05ed-4da1-8429-dd118a70c0b8" />
 
 ini adalah contoh error handling "ValueError"
 
+<img width="707" height="410" alt="Screenshot 2025-09-28 223247" src="https://github.com/user-attachments/assets/5ea67f42-a3d0-4ba5-aef6-2f2859485015" />
 
 ini adalah contoh error handling "KeyboardInterrupt"
 
+<img width="772" height="194" alt="Screenshot 2025-09-28 222745" src="https://github.com/user-attachments/assets/bc2b73de-b8b6-4ce7-9c33-c62b90dc5230" />
 
 ini adalah contoh error handling "EOFError"
